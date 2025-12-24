@@ -5,7 +5,7 @@ Step 1: Process the dataset using Preprocess.ipynb.py to preprocess the raw data
 
 Step 2: Please open 'Bi_LSTM+CRF.ipynb' to run the codes. You can see that I re-process the preprocessed data into three '.txt' files for training, validating, and testing.
 
-Step 3: Execute main.py to start training the data.
+Step 3: Execute main.py to start training the data. 
 
 ## RE Based on BERT-CNN
 Step 1: Download the pre-trained BERT model and store it in the /cekps directory, using the name of the pre-trained BERT model as the filename.
